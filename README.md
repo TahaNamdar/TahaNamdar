@@ -30,7 +30,7 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/TahaNamdar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -39,5 +39,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/taha-namdar-367283168/?originalSubdomain=ir"><imgstyle=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/taha-namdar-367283168/?originalSubdomain=ir"><imgstyle=flat&logo=Linkedin&logoColor=white"/>Taha Namdar LinkedIn</a>
 </p>
