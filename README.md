@@ -1,30 +1,18 @@
 
-## I'm Taha
-
-## 👩‍💻  About Me
-💻  I'm a Front-end Developer.
-
-💡   I'd like to use Creativity in the endless world of coding.
-
-🌱  I'm on track for learning more about javascript testing library.
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&showBorder=false&lineHeight=1&lineCount=2&theme=discord&gap=12&hideBg=true&line1=react,react,e19163;javascript,javascript,f9835a;typescript,typescript,efed76;redux,redux,214ab2;css,css,d3740f;vsCode,vsCode,6360ba;Bootstrap,Bootstrap,abcd5e;MaterialUi,MaterialUi,86ac3b;tailwindcss,tailwindcss,4fcf11;html,html,054331;git,git,d500ac;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&showBorder=false&lineHeight=1&lineCount=2&theme=discord&gap=12&hideBg=true&line1=react,react,e19163;javascript,javascript,f9835a;typescript,typescript,efed76;redux,redux,214ab2;css,css,d3740f;vsCode,vsCode,6360ba;Bootstrap,Bootstrap,abcd5e;MaterialUi,MaterialUi,86ac3b;tailwindcss,tailwindcss,4fcf11;html,html,054331;git,git,d500ac;)
-
-
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
  
 <!-- ## 👋 &nbsp;Hey there! I'm Taha Namdar -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💻  Innovative Front-End Developer with 2 years of experience building and maintaining responsive websites in the recruiting industry. Proficient In Html,Css,Js Plus      modern libraries and frameworks such as React, ReactNative , MaterialUi . Passionate about usability and possess working knowledge of AdobeXd and Figma
+
+💡   I'd like to use Creativity in the endless world of coding.
+
+🌱  I'm on track for learning more about javascript testing library.
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -52,5 +40,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/taha-namdar-367283168/?originalSubdomain=ir"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
 </p>
