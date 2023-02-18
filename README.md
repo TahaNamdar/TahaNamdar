@@ -43,5 +43,5 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/taha-namdar-367283168/?originalSubdomain=ir"><imgstyle=flat&logo=Linkedin&logoColor=white"/>Taha Namdar LinkedIn</a>
+<a href="https://www.linkedin.com/in/taha-namdar-367283168/?originalSubdomain=ir">Taha Namdar LinkedIn</a>
 </p>
