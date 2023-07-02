@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's Taha ;I'm+a+React+Developer...;I'm+also+IT+Engineer)];
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's Taha ;I'm+a+React+Developer...;I'm+also+IT+Engineer)](https://git.io/typing-svg);
 
  
 <!-- ## 👋 &nbsp;Hey there! I'm Taha Namdar -->
