@@ -32,11 +32,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TahaNamdar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-
-<p align="center>
-           ### 🤝🏻 &nbsp;Connect with Me
-
-          </p>          
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://instagram.com/taha__namdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+    
 
 <p align="center">
 
