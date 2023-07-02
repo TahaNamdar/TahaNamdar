@@ -12,7 +12,7 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TahaNamdar&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🛠 &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
 <p align="left">
