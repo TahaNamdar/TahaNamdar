@@ -1,6 +1,5 @@
 
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&showBorder=false&lineHeight=1&lineCount=2&theme=discord&gap=12&hideBg=true&line1=react,react,e19163;javascript,javascript,f9835a;typescript,typescript,efed76;redux,redux,214ab2;css,css,d3740f;vsCode,vsCode,6360ba;Bootstrap,Bootstrap,abcd5e;MaterialUi,MaterialUi,86ac3b;tailwindcss,tailwindcss,4fcf11;html,html,054331;git,git,d500ac;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&showBorder=false&lineHeight=1&lineCount=2&theme=discord&gap=12&hideBg=true&line1=react,react,e19163;javascript,javascript,f9835a;typescript,typescript,efed76;redux,redux,214ab2;css,css,d3740f;vsCode,vsCode,6360ba;Bootstrap,Bootstrap,abcd5e;MaterialUi,MaterialUi,86ac3b;tailwindcss,tailwindcss,4fcf11;html,html,054331;git,git,d500ac;)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's Taha ;I'm+a+React+Developer...;I'm+also+IT+Engineer;
 
  
 <!-- ## 👋 &nbsp;Hey there! I'm Taha Namdar -->
