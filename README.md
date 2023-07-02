@@ -4,8 +4,6 @@
  
 <!-- ## 👋 &nbsp;Hey there! I'm Taha Namdar -->
 
-### 👨🏻‍💻 &nbsp;About Me
-
 💻  Innovative Front-End Developer with 2 years of experience building and maintaining responsive websites in the recruiting industry. Proficient In Html,Css,Js Plus      modern libraries and frameworks such as React, ReactNative , MaterialUi . Passionate about usability and possess working knowledge of AdobeXd and Figma
 
 💡   I'd like to use Creativity in the endless world of coding.
