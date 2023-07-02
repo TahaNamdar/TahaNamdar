@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Taha.Dev!;I'm+a+React+Developer...;I'm+also+IT+Engineer)](https://git.io/typing-svg)
-
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
- 
-<!-- ## 👋 &nbsp;Hey there! I'm Taha Namdar -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Taha.Dev!;I'm+a+React+Developer...;I'm+also+IT+Engineer)](https://git.io/typing-svg)
+
 
 💻  Innovative Front-End Developer with 2 years of experience building and maintaining responsive websites in the recruiting industry. Proficient In Html,Css,Js Plus      modern libraries and frameworks such as React, ReactNative , MaterialUi . Passionate about usability and possess working knowledge of AdobeXd and Figma
 
